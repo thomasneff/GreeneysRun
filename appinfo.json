@@ -11,278 +11,68 @@
     "resources": {
         "media": [
             {
-                "file": "data/seg_1_8.bin",
-                "name": "seg_1_8",
+                "file": "data/seg_floor.bin",
+                "name": "seg_floor",
                 "type": "raw"
             },
             {
-                "file": "data/seg_0_5.bin",
-                "name": "seg_0_5",
+                "file": "data/seg4.bin",
+                "name": "seg4",
                 "type": "raw"
             },
             {
-                "file": "data/seg_1_7.bin",
-                "name": "seg_1_7",
+                "file": "images/WHITE.png",
+                "name": "WHITE",
+                "type": "png"
+            },
+            {
+                "file": "data/seg0.bin",
+                "name": "seg0",
                 "type": "raw"
             },
             {
-                "file": "data/seg_0_4.bin",
-                "name": "seg_0_4",
+                "file": "data/seg1.bin",
+                "name": "seg1",
                 "type": "raw"
             },
             {
-                "file": "data/seg_2_4.bin",
-                "name": "seg_2_4",
+                "file": "data/seg3.bin",
+                "name": "seg3",
                 "type": "raw"
             },
             {
-                "file": "data/seg_2_2.bin",
-                "name": "seg_2_2",
+                "file": "data/seg2.bin",
+                "name": "seg2",
                 "type": "raw"
             },
             {
-                "file": "data/seg_all_tiles.bin",
-                "name": "seg_all_tiles",
-                "type": "raw"
-            },
-            {
-                "file": "images/powerJump_04bw.png",
-                "name": "powerJump4",
+                "file": "images/valley_bw.png",
+                "name": "VALLEY",
                 "type": "png"
             },
             {
-                "file": "images/powerJump_03bw.png",
-                "name": "powerJump3",
+                "file": "images/valley_evening_bw.png",
+                "name": "VALLEY_EVENING",
                 "type": "png"
             },
             {
-                "file": "images/powerJump_02bw.png",
-                "name": "powerJump2",
+                "file": "images/valley_night_bw.png",
+                "name": "VALLEY_NIGHT",
                 "type": "png"
             },
             {
-                "file": "images/powerJump_01bw.png",
-                "name": "powerJump1",
+                "file": "images/desert_bw.png",
+                "name": "DESERT",
                 "type": "png"
             },
             {
-                "file": "images/lavaDeath2xbw_04.png",
-                "name": "lavaDeath2x4",
+                "file": "images/desert_night_bw.png",
+                "name": "DESERT_NIGHT",
                 "type": "png"
             },
             {
-                "file": "images/lavaDeath2xbw_01.png",
-                "name": "lavaDeath2x1",
-                "type": "png"
-            },
-            {
-                "file": "data/seg_2_3.bin",
-                "name": "seg_2_3",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_0_3.bin",
-                "name": "seg_0_3",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_2_5.bin",
-                "name": "seg_2_5",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_2_1.bin",
-                "name": "seg_2_1",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_2_0.bin",
-                "name": "seg_2_0",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_1_6.bin",
-                "name": "seg_1_6",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_1_5.bin",
-                "name": "seg_1_5",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_1_4.bin",
-                "name": "seg_1_4",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_1_3.bin",
-                "name": "seg_1_3",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_1_2.bin",
-                "name": "seg_1_2",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_1_1.bin",
-                "name": "seg_1_1",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_1_0.bin",
-                "name": "seg_1_0",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_0_2.bin",
-                "name": "seg_0_2",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_0_1.bin",
-                "name": "seg_0_1",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg_0_0.bin",
-                "name": "seg_0_0",
-                "type": "raw"
-            },
-            {
-                "file": "images/woods_evening_bw.png",
-                "name": "WOODS_EVENING",
-                "type": "png"
-            },
-            {
-                "file": "images/desert_evening_bw.png",
-                "name": "DESERT_EVENING",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTile_01_bw.png",
-                "name": "valleyTile1",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile10.png",
-                "name": "desertTile10",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTile_10_bw.png",
-                "name": "valleyTile10",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile9.png",
-                "name": "desertTile9",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile8.png",
-                "name": "desertTile8",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTileSide_06_bw.png",
-                "name": "valleyTile9",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTileSide_05_bw.png",
-                "name": "valleyTile8",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTileSide_04_bw.png",
-                "name": "valleyTile7",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTileSide_03_bw.png",
-                "name": "valleyTile6",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTileSide_02_bw.png",
-                "name": "valleyTile5",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTileSide_01_bw.png",
-                "name": "valleyTile4",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTile_03_bw.png",
-                "name": "valleyTile3",
-                "type": "png"
-            },
-            {
-                "file": "images/valleyTile_02_bw.png",
-                "name": "valleyTile2",
-                "type": "png"
-            },
-            {
-                "file": "images/title_screen_bw.png",
-                "name": "TITLE_SCREEN",
-                "type": "png"
-            },
-            {
-                "file": "images/vertPlatformbw.png",
-                "name": "vertPlatform",
-                "type": "png"
-            },
-            {
-                "file": "images/woods_bw.png",
-                "name": "WOODS",
-                "type": "png"
-            },
-            {
-                "file": "data/seg_tileset_floor.bin",
-                "name": "seg_tileset_floor",
-                "type": "raw"
-            },
-            {
-                "file": "images/desertTile7.png",
-                "name": "desertTile7",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile6.png",
-                "name": "desertTile6",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile5.png",
-                "name": "desertTile5",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile4.png",
-                "name": "desertTile4",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile3.png",
-                "name": "desertTile3",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile2.png",
-                "name": "desertTile2",
-                "type": "png"
-            },
-            {
-                "file": "images/desertTile1.png",
-                "name": "desertTile1",
-                "type": "png"
-            },
-            {
-                "file": "images/woods_night_bw.png",
-                "name": "WOODS_NIGHT",
+                "file": "images/redWall2bw.png",
+                "name": "redWall2",
                 "type": "png"
             },
             {
@@ -292,68 +82,278 @@
                 "type": "png"
             },
             {
-                "file": "images/redWall2bw.png",
-                "name": "redWall2",
+                "file": "images/woods_night_bw.png",
+                "name": "WOODS_NIGHT",
                 "type": "png"
             },
             {
-                "file": "images/desert_night_bw.png",
-                "name": "DESERT_NIGHT",
+                "file": "images/desertTile1.png",
+                "name": "desertTile1",
                 "type": "png"
             },
             {
-                "file": "images/desert_bw.png",
-                "name": "DESERT",
+                "file": "images/desertTile2.png",
+                "name": "desertTile2",
                 "type": "png"
             },
             {
-                "file": "images/valley_night_bw.png",
-                "name": "VALLEY_NIGHT",
+                "file": "images/desertTile3.png",
+                "name": "desertTile3",
                 "type": "png"
             },
             {
-                "file": "images/valley_evening_bw.png",
-                "name": "VALLEY_EVENING",
+                "file": "images/desertTile4.png",
+                "name": "desertTile4",
                 "type": "png"
             },
             {
-                "file": "images/valley_bw.png",
-                "name": "VALLEY",
+                "file": "images/desertTile5.png",
+                "name": "desertTile5",
                 "type": "png"
             },
             {
-                "file": "data/seg2.bin",
-                "name": "seg2",
+                "file": "images/desertTile6.png",
+                "name": "desertTile6",
+                "type": "png"
+            },
+            {
+                "file": "images/desertTile7.png",
+                "name": "desertTile7",
+                "type": "png"
+            },
+            {
+                "file": "data/seg_tileset_floor.bin",
+                "name": "seg_tileset_floor",
                 "type": "raw"
             },
             {
-                "file": "data/seg3.bin",
-                "name": "seg3",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg1.bin",
-                "name": "seg1",
-                "type": "raw"
-            },
-            {
-                "file": "data/seg0.bin",
-                "name": "seg0",
-                "type": "raw"
-            },
-            {
-                "file": "images/WHITE.png",
-                "name": "WHITE",
+                "file": "images/woods_bw.png",
+                "name": "WOODS",
                 "type": "png"
             },
             {
-                "file": "data/seg4.bin",
-                "name": "seg4",
+                "file": "images/vertPlatformbw.png",
+                "name": "vertPlatform",
+                "type": "png"
+            },
+            {
+                "file": "images/title_screen_bw.png",
+                "name": "TITLE_SCREEN",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTile_02_bw.png",
+                "name": "valleyTile2",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTile_03_bw.png",
+                "name": "valleyTile3",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTileSide_01_bw.png",
+                "name": "valleyTile4",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTileSide_02_bw.png",
+                "name": "valleyTile5",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTileSide_03_bw.png",
+                "name": "valleyTile6",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTileSide_04_bw.png",
+                "name": "valleyTile7",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTileSide_05_bw.png",
+                "name": "valleyTile8",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTileSide_06_bw.png",
+                "name": "valleyTile9",
+                "type": "png"
+            },
+            {
+                "file": "images/desertTile8.png",
+                "name": "desertTile8",
+                "type": "png"
+            },
+            {
+                "file": "images/desertTile9.png",
+                "name": "desertTile9",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTile_10_bw.png",
+                "name": "valleyTile10",
+                "type": "png"
+            },
+            {
+                "file": "images/desertTile10.png",
+                "name": "desertTile10",
+                "type": "png"
+            },
+            {
+                "file": "images/valleyTile_01_bw.png",
+                "name": "valleyTile1",
+                "type": "png"
+            },
+            {
+                "file": "images/desert_evening_bw.png",
+                "name": "DESERT_EVENING",
+                "type": "png"
+            },
+            {
+                "file": "images/woods_evening_bw.png",
+                "name": "WOODS_EVENING",
+                "type": "png"
+            },
+            {
+                "file": "data/seg_0_0.bin",
+                "name": "seg_0_0",
                 "type": "raw"
             },
             {
-                "file": "data/seg_floor.bin",
-                "name": "seg_floor",
+                "file": "data/seg_0_1.bin",
+                "name": "seg_0_1",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_0_2.bin",
+                "name": "seg_0_2",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_0.bin",
+                "name": "seg_1_0",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_1.bin",
+                "name": "seg_1_1",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_2.bin",
+                "name": "seg_1_2",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_3.bin",
+                "name": "seg_1_3",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_4.bin",
+                "name": "seg_1_4",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_5.bin",
+                "name": "seg_1_5",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_6.bin",
+                "name": "seg_1_6",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_2_0.bin",
+                "name": "seg_2_0",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_2_1.bin",
+                "name": "seg_2_1",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_2_5.bin",
+                "name": "seg_2_5",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_0_3.bin",
+                "name": "seg_0_3",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_2_3.bin",
+                "name": "seg_2_3",
+                "type": "raw"
+            },
+            {
+                "file": "images/lavaDeath2xbw_01.png",
+                "name": "lavaDeath2x1",
+                "type": "png"
+            },
+            {
+                "file": "images/lavaDeath2xbw_04.png",
+                "name": "lavaDeath2x4",
+                "type": "png"
+            },
+            {
+                "file": "images/powerJump_01bw.png",
+                "name": "powerJump1",
+                "type": "png"
+            },
+            {
+                "file": "images/powerJump_02bw.png",
+                "name": "powerJump2",
+                "type": "png"
+            },
+            {
+                "file": "images/powerJump_03bw.png",
+                "name": "powerJump3",
+                "type": "png"
+            },
+            {
+                "file": "images/powerJump_04bw.png",
+                "name": "powerJump4",
+                "type": "png"
+            },
+            {
+                "file": "data/seg_all_tiles.bin",
+                "name": "seg_all_tiles",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_2_2.bin",
+                "name": "seg_2_2",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_2_4.bin",
+                "name": "seg_2_4",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_0_4.bin",
+                "name": "seg_0_4",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_7.bin",
+                "name": "seg_1_7",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_0_5.bin",
+                "name": "seg_0_5",
+                "type": "raw"
+            },
+            {
+                "file": "data/seg_1_8.bin",
+                "name": "seg_1_8",
                 "type": "raw"
             }
         ]

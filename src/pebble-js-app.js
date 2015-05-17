@@ -57,6 +57,8 @@ Pebble.addEventListener('appmessage', function(e) {
   });
 });
 
+
+// Copyright by Pebble Technology, 2015 Licensed under the MIT license: https://raw.githubusercontent.com/pebble-examples/timeline-push-pin/master/LICENSE
 /******************************* timeline lib *********************************/
 
 // The timeline public URL root
